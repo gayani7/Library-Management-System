@@ -19,30 +19,33 @@ A simple Library Management System developed using Java (Swing GUI) and MySQL da
 
 ## Screenshots
 
-
-### Login Page
-
-<img src="https://github.com/gayani7/Library-Management-System/blob/main/login.png?raw=true" alt="Login Screenshot" width="200"/>
-
-### Student Page
-
-<img src="https://github.com/gayani7/Library-Management-System/blob/main/student.png?raw=true" alt="Student Screenshot" width="200"/>
-
-### Book Page
-
-<img src="https://github.com/gayani7/Library-Management-System/blob/main/book.png?raw=true" alt="Book Screenshot" width="200"/>
-
-### Issue Page
-
-<img src="https://github.com/gayani7/Library-Management-System/blob/main/issue.png?raw=true" alt="Issue Screenshot" width="200"/>
-
-### Return Page
-
-<img src="https://github.com/gayani7/Library-Management-System/blob/main/return.png?raw=true" alt="Return Screenshot" width="200"/>
-
-### Statistics Page
-
-<img src="https://github.com/gayani7/Library-Management-System/blob/main/statistics.png?raw=true" alt="Statistics Screenshot" width="200"/>
-
-
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/gayani7/Library-Management-System/blob/main/login.png?raw=true" alt="Login Screenshot" width="200"/>
+      <p align="center">Login Page</p>
+    </td>
+    <td>
+      <img src="https://github.com/gayani7/Library-Management-System/blob/main/student.png?raw=true" alt="Student Screenshot" width="200"/>
+      <p align="center">Student Page</p>
+    </td>
+    <td>
+      <img src="https://github.com/gayani7/Library-Management-System/blob/main/book.png?raw=true" alt="Book Screenshot" width="200"/>
+      <p align="center">Book Page</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/gayani7/Library-Management-System/blob/main/issue%20.png?raw=true" alt="Issue Screenshot" width="200"/>
+      <p align="center">Issue Page</p>
+    </td>
+    <td>
+      <img src="https://github.com/gayani7/Library-Management-System/blob/main/return.png?raw=true" alt="Return Screenshot" width="200"/>
+      <p align="center">Return Page</p>
+    </td>
+    <td>
+      <img src="https://github.com/gayani7/Library-Management-System/blob/main/statistics.png?raw=true" alt="Statistics Screenshot" width="200"/>
+      <p align="center">Statistics Page</p>
+    </td>
+  </tr>
+</table>
