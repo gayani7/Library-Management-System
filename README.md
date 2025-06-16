@@ -22,6 +22,7 @@ A simple Library Management System developed using Java (Swing GUI) and MySQL da
 
 ### Login Page
 
-<img src="screenshots/login.png" alt="Login Screenshot" width="500"/>
+<img src="https://github.com/gayani7/Library-Management-System/blob/main/login.png?raw=true" alt="Login Screenshot" width="200"/>
+
 
 
