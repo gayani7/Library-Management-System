@@ -19,3 +19,9 @@ A simple Library Management System developed using Java (Swing GUI) and MySQL da
 
 ## Screenshots
 
+
+### Login Page
+
+<img src="screenshots/login.png" alt="Login Screenshot" width="500"/>
+
+
